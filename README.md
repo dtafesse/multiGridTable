@@ -1,2 +1,0 @@
-# multiGridTable
-Created with CodeSandbox
